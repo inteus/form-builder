@@ -1,0 +1,6 @@
+.element_settings-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 48px;
+}

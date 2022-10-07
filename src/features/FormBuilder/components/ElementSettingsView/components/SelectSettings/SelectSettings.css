@@ -1,0 +1,22 @@
+.select-settings--option-item {
+  display: flex;
+}
+
+.select-settings--option-item span {
+  margin-right: 16px;
+}
+
+.select-settings--adding-options {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.select-settings--input {
+  display: flex;
+}
+
+.select-settings--input button {
+  margin-left: 4px;
+  align-self: flex-end;
+}

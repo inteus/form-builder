@@ -1,0 +1,11 @@
+.html-generator--container {
+  display: flex;
+  padding: 16px;
+  gap: 16px;
+}
+
+.html-generator--container textarea {
+  width: 300px;
+  height: 100px;
+  resize: none;
+}

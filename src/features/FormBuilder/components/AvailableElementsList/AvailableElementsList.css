@@ -1,0 +1,7 @@
+.available-elements--list-container {
+  display: flex;
+  flex-direction: column;
+}
+.available-elements--list-container button {
+  margin-bottom: 16px;
+}

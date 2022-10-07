@@ -1,0 +1,29 @@
+.builder--root-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.builder--flex-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.builder--preview-container {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  min-height: 320px;
+}
+
+.builder--settings {
+  padding: 16px;
+  text-align: center;
+}
+
+.bordered {
+  border: 2px solid #ccc;
+  border-style: dashed;
+  border-radius: 8px;
+}
